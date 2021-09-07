@@ -17,5 +17,15 @@ This is assignment 2 of web apps markdown
 * After reaching there, one can a have beautiful view of beach and ocean.
     - There are other areas in Sydney to visit, one of which is Watson Bay. 
     + One can have a panaromic view of the ocean with curises ships and Blue Whales. 
+*******
+### Items to be brought for enjoyment
+* Mats
+* Water
+* Speaker
+* Sunscreen
+* Food
+* Surfing Boards
+* Sunglasses
+* Towels
 
 
