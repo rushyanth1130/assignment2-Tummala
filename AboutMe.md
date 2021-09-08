@@ -1,3 +1,3 @@
 # Nagarushyanth Tummala
 I like playing badminton and cricket during my free time which relaxes my mind and body. I am also interested in reaching out new people to improve my communication skills. I watch F1 grand prix regualry and my favorite team is Redbull. Both the drivers are my favorites and Max is leading the constructors championship. <br />
-![test image] (https://www.zerox24.com/wp-content/uploads/2020/07/Technology-related-business-ideas.png)
+![test image] (C:\Users\S543652\Downloads\Technology.png)
