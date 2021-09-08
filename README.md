@@ -7,25 +7,25 @@ This is assignment 2 of web apps markdown
 *******
 ## Directions from Maryville to Sydney
 
-* From Maryville take a ride to Kansas City International airport (MCI).
-    * Ask friends to get a ride to airport.
-* From the airport, take a flight to (Kingsford Smith International Airport).
-    - Prefer American Airlines, United, Delta Airways and need a tourist visa.
-* From the airport take a bus to Bondi beach.
-    + Take route 333N bus.
-    * There might be chances of using multiple route buses.
-* After reaching there, one can a have beautiful view of beach and ocean.
-    - There are other areas in Sydney to visit, one of which is Watson Bay. 
-    + One can have a panaromic view of the ocean with curises ships and Blue Whales. 
+1. From Maryville take a ride to Kansas City International airport (MCI).
+    1. Ask friends to get a ride to airport.
+2. From the airport, take a flight to (Kingsford Smith International Airport).
+    1. Prefer American Airlines, United, Delta Airways and need a tourist visa.
+3. From the airport take a bus to Bondi beach.
+    1. Take route 333N bus.
+    2. There might be chances of using multiple route buses.
+4. After reaching there, one can a have beautiful view of beach and ocean.
+    1. There are other areas in Sydney to visit, one of which is Watson Bay. 
+    2. One can have a panaromic view of the ocean with curises ships and Blue Whales. 
 *******
 ### Items to be brought for enjoyment
 * Mats
-* Water
-* Speaker
++ Water
+- Speaker
 * Sunscreen
-* Food
++ Food
 * Surfing Boards
-* Sunglasses
+- Sunglasses
 * Towels
 
 
