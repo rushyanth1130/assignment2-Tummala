@@ -47,9 +47,9 @@ This section has my favorite food, drink and the location where I would like to 
 
 ### Pithy Quotes ###
 > Be curious, not judgmental.<br />
-_~Walt Whitman_
+_~Walt Whitman_<br />
 > Everything comes in time to him who knows how to wait. <br />
-_~Leo Tolstoy_
+_~Leo Tolstoy_<br />
 
 <hr />
 
