@@ -42,3 +42,57 @@ This section has my favorite food, drink and the location where I would like to 
 | Pizza                  | Pizza hut | $20    |
 | Burito Bowl            | TAcoBell  | $8     |
 | Sprite                 | Walmart   | $4     |
+
+<hr />
+
+### Pithy Quotes ###
+> Be curious, not judgmental.<br />
+_~Walt Whitman_
+> Everything comes in time to him who knows how to wait. <br />
+_~Leo Tolstoy_
+
+<hr />
+
+### Code Fencing ###
+> Usually, the monotone property is find either by instinct, print out the DP table, or by Monge condition. 
+> Actually, divide and conquer optimization is a special case of 1D/1D convex/concave Knuth optimization(cost function doesn't depends on previous DP values).
+[Description Link](https://robert1003.github.io/2020/02/25/dp-opt-divide-and-conquer.html)
+
+```
+int m, n;
+vector<long long> dp_before(n), dp_cur(n);
+
+long long C(int i, int j);
+
+// compute dp_cur[l], ... dp_cur[r] (inclusive)
+void compute(int l, int r, int optl, int optr) {
+    if (l > r)
+        return;
+
+    int mid = (l + r) >> 1;
+    pair<long long, int> best = {LLONG_MAX, -1};
+
+    for (int k = optl; k <= min(mid, optr); k++) {
+        best = min(best, {(k ? dp_before[k - 1] : 0) + C(k, mid), k});
+    }
+
+    dp_cur[mid] = best.first;
+    int opt = best.second;
+
+    compute(l, mid - 1, optl, opt);
+    compute(mid + 1, r, opt, optr);
+}
+
+int solve() {
+    for (int i = 0; i < n; i++)
+        dp_before[i] = C(0, i);
+
+    for (int i = 1; i < m; i++) {
+        compute(0, n - 1, 0, n - 1);
+        dp_before = dp_cur;
+    }
+
+    return dp_before[n - 1];
+}
+```
+[Algorithm Link](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
