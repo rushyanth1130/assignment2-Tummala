@@ -27,5 +27,18 @@ This is assignment 2 of web apps markdown
 * Surfing Boards
 - Sunglasses
 * Towels
+<hr />
 [AboutMe description link](https://github.com/rushyanth1130/assignment2-Tummala/blob/main/AboutMe.md)
 
+<hr />
+
+## Table for my food and beverages ##
+
+This section has my favorite food, drink and the location where I would like to get those.
+
+| Food/Drink             | Location  | Amount |
+| ---------------------- | --------- | ------ |
+| Spicy Chicken Sandwich | IHOP      | $8     |
+| Pizza                  | Pizza hut | $20    |
+| Burito Bowl            | TAcoBell  | $8     |
+| Sprite                 | Walmart   | $4     |
