@@ -26,7 +26,7 @@ This is assignment 2 of web apps markdown
 + Food
 * Surfing Boards
 - Sunglasses
-* Towels
+* Towels <br />
 <hr />
 [AboutMe description link](https://github.com/rushyanth1130/assignment2-Tummala/blob/main/AboutMe.md)
 
